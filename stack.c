@@ -1,5 +1,5 @@
 #include "stack.h"
-
+//.
 void createstack(Stack* stack)
 {
     stack->top=-1;
